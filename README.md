@@ -26,4 +26,9 @@ Lastly, note that to provide extra layers of security, once a message is scrambl
 If the key-exchange session is terminated either by closing the app or clicking the reset button in the Cipher Keygen tab in advanced mode on both users devices, then the message can never be unscrambled, even using the app and the cipher key on another device, or using online Morsecode decoding tools.
 This is done so as to provide a high-level of security for confidential information that is scrambled/unscrambled using the app.
 
-Finally to reiterate, this app is a Utility tool that works completely offline and does not connect to the internet. You are responsible for sharing any Morse-encoded or scrambled message you generate to the recipient using available sharing tools as mentioned above. All necessary caution must be taken when using the app particularly for encoding/scrambling sensitive/confidential information.
+## Privacy Policy
+No user data is collected in this app.
+This app is a Utility tool that works completely offline and does not connect to the internet.
+It simply translates any message you type into a Morsecode format either using an extra layer of scrambling to "encrypt", "decrypt" or scramble the entered text. The app does not store the result of this processing anywhere. 
+Please note that you are responsible for how you share any Morse-encoded or scrambled message you generate using this app to the recipient using available sharing tools on your Apple device such as copy/paste SMS or iMessage. 
+So with this in mind, all necessary caution must be taken when using the app particularly for encoding/scrambling sensitive/confidential information and when sharing the result of this with the recipent.
