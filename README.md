@@ -1,15 +1,19 @@
-# morsecipher
+# MorseCipher
 Support Page for MorseCipher Application
 
 ## App Description 
 MorseCipher is a Utility app that works completely offline. The app is designed to work on IPadOs and MacOS (via Mac Catalyst) for now.
 
-The app has the following features:
+The app has 2 Modes a user can select from, each having a different set of features, a Simple Mode and an Advanced Mode.
+
+### Simple Mode
+The app has the following features under the SImple Mode:
 * Allows users to translate any alphanumeric text to and from Morsecode (International).
 * Allows sharing Morse encoded messages either as a text via the iOS message app as an SMS or iMessage.
 * Provides option to play and download the Morse encoded message as a standard Morsecode audio (short/long beeps).
 * The Downloaded audio file can then be shared to another user for decoding in the app or using any online Morsecode audio decoding tools. 
 
+### Advanced Mode
 The app also has an advanced mode that provides the following features:
 * Allows a pair of users to create a matching randomised cipher key secret, using a key exchange protocol.
 * This cipher key then allows the pair of users to scramble/unscramble any body of text e.g. confidential information which they can share securely with one another.
