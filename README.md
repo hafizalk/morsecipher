@@ -31,5 +31,5 @@ No user data is collected in this app.
 This app is a Utility tool that works completely offline and does not connect to the internet.  
 It simply translates any message you type into a Morsecode format either using an extra layer of scrambling to "encrypt", "decrypt" or scramble the entered text. The app does not store the result of this processing anywhere.  
 
-Please note that you are responsible for how you share any Morse-encoded or scrambled message you generate using this app to the recipient using available sharing tools on your Apple device such as copy/paste SMS or iMessage.  
+Please note that you are completely responsible for how you use this application, including your sharing of the results of any operation performed by the app such as Morse-encoding or scrambling confidential messages, on any platform of your choosing to your intended recipient using available sharing tools on your Apple device such as copy/paste SMS or iMessage.  
 So with this in mind, all necessary caution must be taken when using the app particularly for encoding/scrambling sensitive/confidential information and when sharing the result of this with the recipent.
