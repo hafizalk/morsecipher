@@ -33,3 +33,6 @@ It simply translates any message you type into a Morsecode format either using a
 
 Please note that you are completely responsible for how you use this application, including your sharing of the results of any operation performed by the app such as Morse-encoding or scrambling confidential messages, on any platform of your choosing to your intended recipient using available sharing tools on your Apple device such as copy/paste SMS or iMessage.  
 So with this in mind, all necessary caution must be taken when using the app particularly for encoding/scrambling sensitive/confidential information and when sharing the result of this with the recipent.
+
+## Contact the Developer
+Click on the <strong>View on GitHub<strong> button above to redirect to the github repository in order to raise any github issues, feature requests or provide general feedback for this project. Alternatively, reach out to me via email at <alakohafiz@ymail.com>.
