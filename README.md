@@ -35,4 +35,4 @@ Please note that you are completely responsible for how you use this application
 So with this in mind, all necessary caution must be taken when using the app particularly for encoding/scrambling sensitive/confidential information and when sharing the result of this with the recipent.
 
 ## Contact the Developer
-Click on the <strong>View on GitHub<strong> button above to redirect to the github repository in order to raise any github issues, feature requests or provide general feedback for this project. Alternatively, reach out to me via email at <alakohafiz@ymail.com>.
+Click on the <strong>View on GitHub</strong> button above to redirect to the github repository in order to raise any github issues, feature requests or provide general feedback for this project. Alternatively, reach out to me via email at <alakohafiz@ymail.com>.
